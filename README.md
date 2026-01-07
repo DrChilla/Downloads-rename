@@ -24,7 +24,7 @@ ollama pull qwen3-vl:2b
 python3 rename.py
 
 ```
-
+(I ended up using automator to make it into an app because I was able to make it run more smoothly and automatically like that)
 
 
 ---
